@@ -1,4 +1,4 @@
-Comparative Analysis: Active Managed Funds vs. Benchmark Index 
+**Comparative Analysis: Active Managed Funds vs. Benchmark Index**
 
 This project provides a comprehensive framework to evaluate and compare the performance, risk metrics, and structural differences between actively managed funds and passive benchmark index funds. Using Fidelity Contrafund (FCNTX) as the active representative and Vanguard S&P 500 ETF (VOO) as the benchmark, the analysis utilizes Python-based data visualization and financial modeling to determine where active managers add value.
 
@@ -24,3 +24,9 @@ This project is built entirely in Python, leveraging industry-standard libraries
  - Source of Alpha: Analysis indicates that the active manager demonstrated poor Asset Allocation but strong Security Selection within specific sectors.
  - Risk Factor: The Information Ratio (IR) for the active fund (3.60) was higher than the benchmark's Sharpe Ratio (1.51), suggesting superior active management performance    relative to the additional risk taken.
 
+🚀 How to Run the Dashboard
+1. Install dependencies: pip install dash yfinance pandas plotly requests beautifulsoup4 openpyxl
+2. Run the application: python Dashboard_dash.py
+3. Access the web interface: Open your browser and navigate to: http://127.0.0.1:8050/
+
+Author: Saloni Dedhia Project: Financial Modeling Final Project
