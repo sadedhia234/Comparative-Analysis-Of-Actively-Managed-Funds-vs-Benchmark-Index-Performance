@@ -2,6 +2,8 @@
 
 This project provides a comprehensive framework to evaluate and compare the performance, risk metrics, and structural differences between actively managed funds and passive benchmark index funds. Using Fidelity Contrafund (FCNTX) as the active representative and Vanguard S&P 500 ETF (VOO) as the benchmark, the analysis utilizes Python-based data visualization and financial modeling to determine where active managers add value.
 
+<img width="2000" height="987" alt="image" src="https://github.com/user-attachments/assets/c392ae5c-ba21-4468-a0cd-61b7a636bab8" />
+
 📊 Project Overview
 The core objective is to determine if active management justifies its higher fees through outperformance (Alpha) or if a passive strategy offers better risk-adjusted returns.
 Key Performance Metrics :
